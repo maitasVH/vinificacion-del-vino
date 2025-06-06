@@ -1,0 +1,16 @@
+<style>
+    body {
+      margin: 0;
+      height: 100vh;
+      background-color: #333;
+      color: white;
+    }
+
+    .centrado {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      font-size: 2em;
+    }
+  </style>
